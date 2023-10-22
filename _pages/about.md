@@ -5,8 +5,8 @@ permalink: /
 subtitle: <strong>Ph.D. Student</strong> at Harvard SEAS <br>  1 Western Ave, Boston, MA 02163, USA
 
 profile:
-  align: left
-  image: yicong_avatar.jpg
+  align: right
+  image: Yicong_View_Boston_2023.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>View Boston, 2023</p>
