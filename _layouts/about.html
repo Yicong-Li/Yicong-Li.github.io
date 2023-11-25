@@ -49,14 +49,8 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Honors & Awards</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">Honors & Awards</a></h2>
             {%- include latest_posts.html %}
-          {%- endif %}
-          
-          <!-- Honors & Awards -->
-          {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/awards/' | relative_url }}" style="color: inherit;">Honors & Awards</a></h2>
-            {%- include awards.html limit=true %}
           {%- endif %}
 
           <!-- Selected papers -->
