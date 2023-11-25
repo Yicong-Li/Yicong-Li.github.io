@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-11-25
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll serve as a review for [CVPR 2024](https://cvpr.thecvf.com/) and [ISBI 2024](https://biomedicalimaging.org/2024/)! :smile:
