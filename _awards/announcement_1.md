@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-18
+date: 2022-09-01
 inline: true
 related_posts: false
 ---
 
-One paper accepted by [ICIP 2023](https://2023.ieeeicip.org/) and another one by [BIBM 2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/) workshop! :sparkles:
+Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences, Harvard University.
