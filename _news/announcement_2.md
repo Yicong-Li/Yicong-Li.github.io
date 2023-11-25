@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I enjoyed a great summer internship at [Simons Foundation](https://www.simonsfoundation.org/) in NYC!
+I enjoyed a great summer internship at [Simons Foundation](https://www.simonsfoundation.org/) in New York City!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
