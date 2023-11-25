@@ -21,10 +21,6 @@ I'm a 2nd-year Ph.D. student in computer science at [Harvard University](https:/
 
 I'm very fortunate to have interned at [MIT CSAIL](https://www.csail.mit.edu/) (with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/)), [Harvard Medical School](https://hms.harvard.edu/) (with [Prof. Faisal Mahmood](https://faisal.ai/)), [Simons Foundation](https://www.simonsfoundation.org/) (with [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/) and [Dr. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en)), and [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (with Dr. Changzheng Zhang and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team).
 
-My research interests are but not limited to:
-* **Biomedical Image Analysis**,
-* **AI for Healthcare**,
-* **Computer Vision**,
-* **Computational Connectomics**.
+I'm very excited about developing bleeding-edge AI techniques to address a range of biology and healthcare challenges. My research interests are but not limited to: **Biomedical Image Analysis**, **AI for Healthcare**, **Computational Connectomics**, and **Computer Vision**.
 
 Collaborations and casual chats are welcomed!
