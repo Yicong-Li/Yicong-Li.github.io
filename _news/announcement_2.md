@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2023-09-01
+date: 2023-11-06
 inline: true
 related_posts: false
 ---
 
-I enjoyed a great summer internship at [Simons Foundation](https://www.simonsfoundation.org/) in New York City!
+Our [SmartEM](https://doi.org/10.1101/2023.10.05.561103) paper is covered by [MIT News](https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106)!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
