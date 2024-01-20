@@ -87,8 +87,8 @@ layout: default
               </tr>
               </table>
             </div>
+            <br>
           {%- endif %}
-          <br>
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
@@ -102,8 +102,8 @@ layout: default
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
+            <br>
           {%- endif %}
-          <br>
 
           <!-- Academic Services -->
           {% if page.news and site.announcements.enabled -%}
