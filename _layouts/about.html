@@ -50,13 +50,14 @@ layout: default
 
           <!-- Honors & Awards -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">Honors & Awards</a></h2>
+            <h2>Honors & Awards</h2>
             <p><strong>Feb 7, 2023</strong><br>Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences, Harvard University.</p>
           {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">Latest posts</a></h2>
+            <!-- <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">Latest posts</a></h2> -->
+            <h2>Latest Posts</h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
