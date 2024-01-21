@@ -10,7 +10,7 @@ email: yicong.li.0225@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is Yicong Li's homepage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-keywords: Biomedical Image Analysis, AI for Healthcare, Computer Vision  # add your own keywords or leave empty
+keywords: AI for Healthcare/Medicine/Biology, Biomedical Image Analysis, Computational Neuroscience/Connectomics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: h_seas.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
