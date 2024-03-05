@@ -25,9 +25,6 @@ Prior to Harvard, I obtained my master's degree at [Tsinghua University](https:/
 
 <!-- I aim at developing bleeding-edge AI techniques to address important real-world challenges. Specifically, my research interests are but not limited to: -->
 I aim at bridging the gap the betweem natural and artificial intelligence. Specifically, my research interests are but not limited to
-<!-- * **AI for Healthcare/Medicine/Biology**,
-* **Biomedical Image Analysis**,
-* **Computational Neuroscience/Connectomics**. -->
 * **AI for Neuroscience**,
 * **NeuroAI**,
 * **Biomedical Image Analysis**.

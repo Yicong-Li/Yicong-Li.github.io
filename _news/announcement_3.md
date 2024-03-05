@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-25
+date: 2024-01-18
 inline: true
 related_posts: false
 ---
 
-I'll serve as a reviewer for [CVPR 2024](https://cvpr.thecvf.com/) and [ISBI 2024](https://biomedicalimaging.org/2024/)! :smile:
+I'll join [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) as a researh intern in summer 2024! :smile:
