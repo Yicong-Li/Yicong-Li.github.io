@@ -24,7 +24,7 @@ I'm very fortunate to have interned (now a guest researcher) at [Simons Foundati
 Prior to Harvard, I obtained my master's degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yang Li](http://yangli-feasibility.com/home/), and my bachelor's degree at [Sichuan University](https://en.scu.edu.cn/).
 
 <!-- I aim at developing bleeding-edge AI techniques to address important real-world challenges. Specifically, my research interests are but not limited to: -->
-I aim at bridging the gap the betweem natural and artificial intelligence. Specifically, my research interests are but not limited to
+I aim at bridging the gap the betweem natural and artificial intelligence. Specifically, my research interests are but not limited to:
 * **AI for Neuroscience**,
 * **NeuroAI**,
 * **Biomedical Image Analysis**.
