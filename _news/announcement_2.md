@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2023-11-06
+date: 2024-07-17
 inline: true
 related_posts: false
 ---
 
-Our [SmartEM](https://doi.org/10.1101/2023.10.05.561103) paper is covered by [MIT News](https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106)!
+Three papers accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/)!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

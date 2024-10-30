@@ -21,7 +21,7 @@ I'm a Ph.D. candidate in **computer science** with a secondary field in [Mind, B
 
 I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/) with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), at [Simons Foundation](https://www.simonsfoundation.org/) with [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/) and [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), at [MIT CSAIL](https://www.csail.mit.edu/) with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/), at Harvard Medical School with [Prof. Faisal Mahmood](https://faisal.ai/), and at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) with Changzheng Zhang and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team.
 
-Prior to Harvard, I obtained my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Prof. Yang Li](http://yangli-feasibility.com/home/), and my bachelor's degree from [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College), [Sichuan University](https://en.scu.edu.cn/).
+Prior to Harvard, I obtained my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Prof. Yang Li](http://yangli-feasibility.com/home/), and my bachelor's degree from [Sichuan University](https://en.scu.edu.cn/).
 
 I aim at bridging the gap the betweem **natural and artificial intelligence** as well as developing bleeding-edge AI techniques to address important real-world challenges in **healthcare**, **medicine**, and **neuroscience**. Specifically, my research interests are but not limited to:
 * **Biomedical Image Analysis**,
