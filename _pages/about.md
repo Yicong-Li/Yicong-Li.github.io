@@ -23,7 +23,7 @@ I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/)
 
 Prior to Harvard, I obtained my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Prof. Yang Li](http://yangli-feasibility.com/home/), and my bachelor's degree from [Sichuan University](https://en.scu.edu.cn/).
 
-I aim at bridging the gap the betweem **natural and artificial intelligence** as well as developing bleeding-edge AI techniques to address important real-world challenges in **healthcare**, **medicine**, and **neuroscience**. Specifically, my research interests are but not limited to:
+I aim to bridge the gap between **natural and artificial intelligence** and develop bleeding-edge AI techniques to address important real-world challenges in **healthcare**, **medicine**, and **neuroscience**. Specifically, my research interests are but not limited to:
 * **Biomedical Image Analysis**,
 * **Data-Efficient Learning**,
 * **Multi-Modal Learning**,
