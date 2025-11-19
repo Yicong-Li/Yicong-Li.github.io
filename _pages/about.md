@@ -23,9 +23,7 @@ Previously, I obtained my master's degree from [Tsinghua University](https://www
 
 I interned at Genentech in [Dr. Dan Ruderman](https://www.linkedin.com/in/danruderman/)'s team, at Microsoft Research with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), at Simons Foundation's Flatiron Institute with [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/) and [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), and at Huawei with [Changzheng Zhang](https://scholar.google.com/citations?user=UoapvRgAAAAJ) and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team.
 
-
-
-I aim to bridge the gap between **natural and artificial intelligence** and develop bleeding-edge AI techniques to address important real-world challenges in **healthcare**, **medicine**, and **neuroscience**. Specifically, my research interests are but not limited to:
+I aim to bridge the gap between **natural and artificial intelligence** as well as developing bleeding-edge AI techniques to address important real-world challenges in **healthcare**, **medicine**, and **neuroscience**. Specifically, my research interests are but not limited to:
 * **Biomedical Image Analysis**,
 * **Data-Efficient Learning**,
 * **Multi-Modal Learning**,
