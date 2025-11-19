@@ -24,8 +24,8 @@ Previously, I obtained my master's degree from [Tsinghua University](https://www
 I interned at Genentech in [Dr. Dan Ruderman](https://www.linkedin.com/in/danruderman/)'s team, at Microsoft Research with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), at Simons Foundation's Flatiron Institute with [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/) and [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), and at Huawei with [Changzheng Zhang](https://scholar.google.com/citations?user=UoapvRgAAAAJ) and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team.
 
 My research aims to develop bleeding-edge AI techniques to address important real-world challenges. I'm broadly interested in:
-* **Computer Vision and Deep Learning:** transfer learning, domain adaptation, self/semi-supervised learning, generative modeling, image segmentation/classification/reconstruction, etc.
-* **Multimodal Large Language Models:** vision-language foundation models, in-context learning of multimodal LLMs without specialized in-domain training, evaluation of LLMs, etc.
-* **AI for Healthcare:** dfdfd
-* **AI for Biology:** sdsds
-* **AI for Neuroscience:** sdsdsds
+* **Computer Vision and Deep Learning:** self/semi-supervised learning, generative modeling, multi-modal learning, transfer learning, domain adaptation, image segmentation/classification/reconstruction/compression, etc.
+* **Multimodal Large Language Models:** vision-language foundation models, in-context learning of multimodal LLMs, LLMs post-training, evaluation of LLMs, etc.
+* **AI for Healthcare:** MRI/CT/X-Ray image analysis, AI-assisted pulmonary function diagnosis and quality control, embryo viability prediction in clinical IVF, etc.
+* **AI for Biology:** computational pathology, cancer biomarker discovery, cancer survival analysis, etc.
+* **AI for Neuroscience:** 2D/3D neuron segmentation, synapse detection, electron microscopy image reconstruction, AI-assisted efficient imaging, vision foundation models for connectomics, etc.
