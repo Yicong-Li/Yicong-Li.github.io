@@ -24,8 +24,8 @@ Previously, I obtained my master's degree from [Tsinghua University](https://www
 I interned at Genentech in [Dr. Dan Ruderman](https://www.linkedin.com/in/danruderman/)'s team, at Microsoft Research with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), at Simons Foundation's Flatiron Institute with [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/) and [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), and at Huawei with [Changzheng Zhang](https://scholar.google.com/citations?user=UoapvRgAAAAJ) and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team.
 
 My research aims to develop bleeding-edge AI techniques to address important real-world challenges. I'm broadly interested in:
-* **Computer Vision and Deep Learning:** dfdfd
-* **Multimodal LLMs:** dfdfd
+* **Computer Vision and Deep Learning:** transfer learning, domain adaptation, self/semi-supervised learning, generative modeling, image segmentation/classification/reconstruction, etc.
+* **Multimodal Large Language Models:** vision-language foundation models, in-context learning of multimodal LLMs without specialized in-domain training, evaluation of LLMs, etc.
 * **AI for Healthcare:** dfdfd
-* **AI for Neuroscience:** sdsds
-* **AI for biology:** sdsdsds
+* **AI for Biology:** sdsds
+* **AI for Neuroscience:** sdsdsds
