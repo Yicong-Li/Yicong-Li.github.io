@@ -42,13 +42,15 @@ layout: default
           </div>
           <br>
 
+          {% comment %}
           <!-- News -->
-          <!-- {% if page.news and site.announcements.enabled -%} -->
-            <!-- <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2> -->
-            <!-- <h2>News</h2>
-            {%- include news.html limit=true %} -->
-          <!-- {%- endif %} -->
-          <!-- <br> -->
+          {% if page.news and site.announcements.enabled -%}
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+            <h2>News</h2>
+            {%- include news.html limit=true %}
+          {%- endif %}
+          <br>
+          {% endcomment %}
 
           <!-- Honors & Awards -->
           {% if page.news and site.announcements.enabled -%}
@@ -147,19 +149,19 @@ layout: default
               <tr>
                 <th scope="row">Spring 2022</th>
                 <td>
-                  Teaching Assistant - Seminar in Data Science and Information Technology: Advanced Learning Representations with <a href="http://yangli-feasibility.com/">Prof. Yang Li</a>, Tsinghua University.
+                  Teaching Assistant - Seminar in Data Science: Advanced Learning Representations with <a href="http://yangli-feasibility.com/">Prof. Yang Li</a>, Tsinghua University.
                 </td>
               </tr>
               <tr>
                 <th scope="row">Summer 2021</th>
                 <td>
-                  Teaching Assistant - Geometry and Learning for 3D Vision with <a href="http://people.eecs.berkeley.edu/~yima/">Prof. Yi Ma (UC Berkeley)</a>, Tsinghua University.
+                  Teaching Assistant - Geometry and Learning for 3D Vision with <a href="http://people.eecs.berkeley.edu/~yima/">Prof. Yi Ma (UC Berkeley & HKU)</a>, Tsinghua University.
                 </td>
               </tr>
               <tr>
                 <th scope="row">Fall 2020</th>
                 <td>
-                  Teaching Assistant - Discrete-Event Simulation with <a href="https://www.tbsi.edu.cn/cwj_en/main.htm">Prof. Wai Kin (Victor) Chan</a>, Tsinghua University.
+                  Teaching Assistant - Discrete-Event Simulation with <a href="https://www.sigs.tsinghua.edu.cn/cwj_en/main.psp">Prof. Wai Kin (Victor) Chan</a>, Tsinghua University.
                 </td>
               </tr>
               </table>
