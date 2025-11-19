@@ -28,3 +28,4 @@ My research aims to develop bleeding-edge AI techniques to address important rea
 * **Multimodal LLMs:** dfdfd
 * **AI for Healthcare:** dfdfd
 * **AI for Neuroscience:** sdsds
+* **AI for biology:** sdsdsds
