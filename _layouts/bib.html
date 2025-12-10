@@ -142,6 +142,9 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.cv_news %}
+            <a href="{{ entry.forbes }}" class="btn btn-sm z-depth-0" role="button">forbes</a>
+          {%- endif %}
+          {%- if entry.cv_news %}
             <a href="{{ entry.cv_news }}" class="btn btn-sm z-depth-0" role="button">Computer Vision News</a>
           {%- endif %}
           {%- if entry.ercim %}
