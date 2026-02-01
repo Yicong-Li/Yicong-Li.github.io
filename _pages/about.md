@@ -6,10 +6,10 @@ subtitle: Ph.D. Candidate at <strong>Harvard SEAS</strong>
 
 profile:
   align: right
-  image: Yicong_View_Boston_2023.jpg
+  image: Yicong_Little_Havana.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>View Boston, 2023</p>
+    <p>Little Havana, 2025</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
