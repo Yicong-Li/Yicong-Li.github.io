@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -32,6 +32,8 @@ I aim to develop bleeding-edge AI techniques to address important real-world cha
 * **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
 * **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
 
-I'm a recipient of the Laverack Family Innovation Fund Fellowship in the Division of Engineering and Applied Sciences from Harvard University and the prestigious (only 5) "Wang Wen Guo" scholarship from Sichuan University. My research has been featured in **MIT News**, **Forbes**, **MarkTechPost**, **Computer Vision News**, and **ERCIM News**.
+I'm a recipient of the Laverack Family Innovation Fund Fellowship from Harvard University and the prestigious (only 5) "Wang Wen Guo" Scholarship from Sichuan University. My research has been featured in **MIT News**, **Forbes**, **MarkTechPost**, **Computer Vision News**, and **ERCIM News**.
+
+Beyond research, I analyze investments in full-stack AI, from next-gen compute chips, AI & space infrastructure, physical AI foundation models & robotics, to Agentic AI solutions across industries. I also have extensive experience leading a student organization of 70+ members, managing large-scale business, academic, social events, and serving 5000+ students and scholars at Harvard.
 
 <p><strong style="color:#e03131;">I'm currently on the industry job market — feel free to reach out!</strong></p>
