@@ -17,21 +17,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised by [Prof. Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister) in [Visual Computing Group (VCG)](https://vcg.seas.harvard.edu/), with an M.S. in **Bioengineering**. I've also worked with [Prof. Jeff W. Lichtman](https://en.wikipedia.org/wiki/Jeff_W._Lichtman), [Prof. Aravinthan D.T. Samuel](https://samuel.physics.harvard.edu/), [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/), [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), [Prof. Bill Lotter](https://www.linkedin.com/in/bill-lotter-62b81243/), and [Prof. Wanhua Li](https://li-wanhua.github.io/).
+I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised by [Prof. Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister) in [Visual Computing Group (VCG)](https://vcg.seas.harvard.edu/), with an M.S. in **Bioengineering**. I also work with [Prof. Jeff W. Lichtman](https://en.wikipedia.org/wiki/Jeff_W._Lichtman), [Prof. Aravinthan D.T. Samuel](https://samuel.physics.harvard.edu/), [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/), [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), [Prof. Bill Lotter](https://www.linkedin.com/in/bill-lotter-62b81243/), and [Prof. Wanhua Li](https://li-wanhua.github.io/).
 
-Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://www.scu.edu.cn/wyzxy/). During this period, I'm also fortunate to have worked with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
+Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College). During this period, I was fortunate to work with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
 
 I interned at **Netflix**, **Genentech**, **Microsoft Research** (with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/)), **Simons Foundation**'s **Flatiron Institute**, and **Huawei** (with [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team).
 
-My research aims to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
+I aim to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
 
 * **Vision-Language Model Post-Training:** supervised fine-tuning, reinforcement learning, in-context learning, and synthetic data generation.
 * **Self-Evolving Agentic Systems:** automatic prompt/skill/workflow/harness optimization.
-* **Computer Vision:** image segmentation/restoration/compression, object detection, self-supervised learning, and vision foundation models.
+* **Computer Vision:** 2D & 3D image segmentation/restoration/compression, object detection, self-supervised learning, and vision foundation models.
 * **Generative Models:** VAEs, GANs, and diffusion models.
-* **AI for Neuroscience:** large-scale 2D/3D electron microscopy image analysis for connectomics.
-* **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-Ray image analysis.
+* **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
+* **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
 
-I'm the recipient of the Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences from Harvard University and the prestigious (only 5) "Wang Wen Guo" scholarship from Sichuan University. My research has been featured in **MIT News**, **Forbes**, **MarkTechPost**, **Computer Vision News**, and **ERCIM News**.
+I'm a recipient of the Laverack Family Innovation Fund Fellowship in the Division of Engineering and Applied Sciences from Harvard University and the prestigious (only 5) "Wang Wen Guo" scholarship from Sichuan University. My research has been featured in **MIT News**, **Forbes**, **MarkTechPost**, **Computer Vision News**, and **ERCIM News**.
 
-<p style="color:#e03131;"><strong>I'm currently on the industry job market — feel free to reach out!</strong></p>
+<p><strong style="color:#e03131;">I'm currently on the industry job market — feel free to reach out!</strong></p>
