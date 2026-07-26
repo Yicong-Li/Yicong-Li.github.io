@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate at <strong>Harvard SEAS</strong>
+subtitle:
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -30,4 +30,4 @@ My research aims to develop bleeding-edge AI techniques to address important rea
 * **AI for Neuroscience:** neuron segmentation and synapse detection on large-scale 2D/3D electron microscopy images, vision foundation models for connectomics, etc.
 * **AI for Biology:** computational pathology, cancer biomarker discovery, cancer survival analysis, etc.
 
-I'm the recepient of the Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences from Harvard University and my research has been featured in [MIT News](https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106), [Forbes](https://youtu.be/vgsA3pSzw2c?si=OPrYOIG5BFOPr6pt), [MarkTechPost](https://www.marktechpost.com/2023/11/13/mit-researchers-developed-smartem-an-ai-technology-that-takes-electron-microscopy-to-the-next-level-by-seamlessly-integrating-real-time-machine-learning-into-the-imaging-process/), [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2023March/42/), and [ERCIM News](https://ercim-news.ercim.eu/en124/special/modelling-time-varying-epidemiological-parameters-for-covid-19).
+I'm the recipient of the Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences from Harvard University and my research has been featured in [MIT News](https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106), [Forbes](https://youtu.be/vgsA3pSzw2c?si=OPrYOIG5BFOPr6pt), [MarkTechPost](https://www.marktechpost.com/2023/11/13/mit-researchers-developed-smartem-an-ai-technology-that-takes-electron-microscopy-to-the-next-level-by-seamlessly-integrating-real-time-machine-learning-into-the-imaging-process/), [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2023March/42/), and [ERCIM News](https://ercim-news.ercim.eu/en124/special/modelling-time-varying-epidemiological-parameters-for-covid-19).
