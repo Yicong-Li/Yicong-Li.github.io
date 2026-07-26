@@ -37,3 +37,7 @@ I'm a recipient of the Laverack Family Innovation Fund Fellowship from Harvard U
 Beyond research, I analyze investments in full-stack AI, from next-gen compute chips, AI & space infrastructure, physical AI foundation models & robotics, to Agentic AI solutions across industries. I also have extensive experience leading a student organization of 70+ members, managing large-scale business, academic, social events, and serving 5000+ students and scholars at Harvard.
 
 <p><strong style="color:#e03131;">I'm currently on the industry job market — feel free to reach out!</strong></p>
+
+<p style="margin-top:1.5rem;">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fyicong-li.github.io%2F" target="_blank" rel="noopener"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fyicong-li.github.io%2F&label=visitors&labelColor=%23555555&countColor=%23e03131&style=flat" alt="visitor count" loading="lazy" /></a>
+</p>
