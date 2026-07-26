@@ -21,13 +21,17 @@ I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised
 
 Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://www.scu.edu.cn/wyzxy/). During this period, I'm also fortunate to have worked with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
 
-I interned at Genentech in [Dr. Dan Ruderman](https://www.linkedin.com/in/danruderman/)'s team, at Microsoft Research with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), at Simons Foundation's Flatiron Institute with , and at Huawei with [Changzheng Zhang](https://scholar.google.com/citations?user=UoapvRgAAAAJ) and [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team.
+I interned at **Netflix**, **Genentech**, **Microsoft Research** (with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/)), **Simons Foundation**'s **Flatiron Institute**, and **Huawei** (with [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team).
 
-My research aims to develop bleeding-edge AI techniques to address important real-world challenges. I'm broadly interested in:
-* **Computer Vision and Deep Learning:** self/semi-supervised learning, generative modeling, multi-modal learning, transfer learning, 2D/3D image segmentation, reconstruction, compression, etc.
-* **Multimodal LLMs:** post-training, domain adaptation, alignment, evaluation, etc., on text, tabular, image, and video data.
-* **AI for Healthcare:** MRI/CT/X-Ray image analysis, AI-assisted pulmonary function diagnosis and quality control, embryo viability prediction in clinical IVF, etc.
-* **AI for Neuroscience:** neuron segmentation and synapse detection on large-scale 2D/3D electron microscopy images, vision foundation models for connectomics, etc.
-* **AI for Biology:** computational pathology, cancer biomarker discovery, cancer survival analysis, etc.
+My research aims to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
 
-I'm the recipient of the Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences from Harvard University and my research has been featured in [MIT News](https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106), [Forbes](https://youtu.be/vgsA3pSzw2c?si=OPrYOIG5BFOPr6pt), [MarkTechPost](https://www.marktechpost.com/2023/11/13/mit-researchers-developed-smartem-an-ai-technology-that-takes-electron-microscopy-to-the-next-level-by-seamlessly-integrating-real-time-machine-learning-into-the-imaging-process/), [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2023March/42/), and [ERCIM News](https://ercim-news.ercim.eu/en124/special/modelling-time-varying-epidemiological-parameters-for-covid-19).
+* **Vision-Language Model Post-Training:** supervised fine-tuning, reinforcement learning, in-context learning, and synthetic data generation.
+* **Self-Evolving Agentic Systems:** automatic prompt/skill/workflow/harness optimization.
+* **Computer Vision:** image segmentation/restoration/compression, object detection, self-supervised learning, and vision foundation models.
+* **Generative Models:** VAEs, GANs, and diffusion models.
+* **AI for Neuroscience:** large-scale 2D/3D electron microscopy image analysis for connectomics.
+* **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-Ray image analysis.
+
+I'm the recipient of the Fellowship of Laverack Family Innovation Fund in the Division of Engineering and Applied Sciences from Harvard University and the prestigious (only 5) "Wang Wen Guo" scholarship from Sichuan University. My research has been featured in **MIT News**, **Forbes**, **MarkTechPost**, **Computer Vision News**, and **ERCIM News**.
+
+<p style="color:#e03131;"><strong>I'm currently on the industry job market — feel free to reach out!</strong></p>
