@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised by [Prof. Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister) in [Visual Computing Group (VCG)](https://vcg.seas.harvard.edu/), with an M.S. in **Bioengineering**. I also work with [Prof. Jeff W. Lichtman](https://en.wikipedia.org/wiki/Jeff_W._Lichtman), [Prof. Aravinthan D.T. Samuel](https://samuel.physics.harvard.edu/), [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/), [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), [Prof. Bill Lotter](https://www.linkedin.com/in/bill-lotter-62b81243/), and [Prof. Wanhua Li](https://li-wanhua.github.io/).
 
-Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College). During this period, I was fortunate to work with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
+Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College). During this period, I also worked with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
 
 I interned at **Netflix**, **Genentech**, **Microsoft Research** (with [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/)), **Simons Foundation**'s **Flatiron Institute**, and **Huawei** (with [Prof. Nanshan Zhong](https://en.wikipedia.org/wiki/Zhong_Nanshan)'s team).
 
@@ -27,7 +27,7 @@ I aim to develop bleeding-edge AI techniques to address important real-world cha
 
 * **VLM/LLM Post-Training:** supervised fine-tuning, reinforcement learning, in-context learning, and synthetic data generation.
 * **Self-Evolving Agentic Systems:** prompt, skill, workflow, harness automatic optimization.
-* **Computer Vision:** segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
+* **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
 * **Generative Models:** VAEs, GANs, and diffusion models.
 * **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
 * **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
