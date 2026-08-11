@@ -25,7 +25,7 @@ I interned at **Netflix**, **Genentech**, **Microsoft Research** (with [Dr. Kris
 
 I aim to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
 
-* **VLM/LLM Post-Training:** supervised fine-tuning, reinforcement learning, in-context learning, and synthetic data generation.
+* **VLM Post-Training:** supervised fine-tuning, reinforcement learning, in-context learning, and synthetic data generation.
 * **Self-Improving AI Agents:** prompt, skill, workflow, harness automatic optimization.
 * **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
 * **Generative Models:** VAEs, GANs, and diffusion models.
