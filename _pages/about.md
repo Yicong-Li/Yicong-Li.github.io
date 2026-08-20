@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised by [Prof. Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister) in [Visual Computing Group (VCG)](https://vcg.seas.harvard.edu/), with an M.S. in **Bioengineering**. I also work with [Prof. Jeff W. Lichtman](https://en.wikipedia.org/wiki/Jeff_W._Lichtman), [Prof. Aravinthan D.T. Samuel](https://samuel.physics.harvard.edu/), [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/), [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), [Prof. Bill Lotter](https://www.linkedin.com/in/bill-lotter-62b81243/), and [Prof. Wanhua Li](https://li-wanhua.github.io/).
+I'm a Ph.D. candidate in **Computer Science** at **Harvard University**, advised by [Prof. Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister) in [Visual Computing Group (VCG)](https://vcg.seas.harvard.edu/), with an M.S. in **Bioengineering**. I also work with [Prof. Jeff W. Lichtman](https://en.wikipedia.org/wiki/Jeff_W._Lichtman), [Prof. Aravinthan D.T. Samuel](https://samuel.physics.harvard.edu/), [Prof. Dmitri "Mitya" B. Chklovskii](https://neural-circuits-and-algorithms.github.io/), [Prof. Jingpeng Wu](https://scholar.google.com/citations?user=ZB6o8OMAAAAJ&hl=en), [Dr. Kristen Severson](https://www.microsoft.com/en-us/research/people/kseverson/), and [Prof. Wanhua Li](https://li-wanhua.github.io/).
 
 Previously, I obtained my master's degree from **Tsinghua University** advised by [Prof. Yang Li](http://yangli-feasibility.com/home/) and my bachelor's degree from **Sichuan University**'s [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College). During this period, I also worked with [Prof. Nir Shavit](https://people.csail.mit.edu/shanir/) and [Prof. Lu Mi](https://lumimim.github.io/) at **MIT CSAIL**, and [Prof. Faisal Mahmood](https://faisal.ai/) at **Harvard Medical School**.
 
@@ -25,9 +25,9 @@ I interned at **Netflix**, **Genentech**, **Microsoft Research**, **Simons Found
 
 I aim to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
 
+* **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
 * **VLM Post-Training:** supervised fine-tuning, reinforcement learning, on-policy distillation, in-context learning, and synthetic data generation.
 * **Self-Improving AI Agents:** prompt, skill, workflow, harness automatic optimization.
-* **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
 * **Generative Models:** VAEs, GANs, and diffusion models.
 * **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
 * **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
