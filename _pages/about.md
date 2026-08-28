@@ -27,7 +27,7 @@ I aim to develop bleeding-edge AI techniques to address important real-world cha
 
 * **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, self-supervised learning, and vision foundation models.
 * **VLM Post-Training:** supervised fine-tuning, reinforcement learning, on-policy distillation, in-context learning, and synthetic data generation.
-* **Self-Improving AI Agents:** prompt, skill, workflow, harness automatic optimization.
+* **Self-Improving Agents:** automatic optimization of prompt, skill, workflow, and harness.
 * **Generative Models:** VAEs, GANs, and diffusion models.
 * **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
 * **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
