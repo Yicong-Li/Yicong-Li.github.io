@@ -25,8 +25,8 @@ I interned at **Netflix**, **Genentech**, **Microsoft Research** (w/ [Dr. Kriste
 
 I aim to develop bleeding-edge AI techniques to address important real-world challenges. My recent work explores:
 
-* **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, VAEs, GANs, diffusion models, self-supervised learning, and vision foundation models.
-* **Multimodal LLMs:** post-training (Supervised Fine-Tuning, Reinforcement Learning, on-policy distillation), in-context learning, and synthetic data generation.
+* **Computer Vision:** 2D & 3D segmentation, restoration, compression, detection, VAEs, GANs, diffusion models, and self-supervised learning.
+* **Multimodal LLMs:** post-training (Supervised Fine-Tuning, Reinforcement Learning, on-policy distillation), video understanding, in-context learning, and synthetic data generation.
 * **Self-Improving Agents:** automatic optimization of prompt, skill, workflow, and harness.
 * **AI for Neuroscience:** large-scale electron microscopy image analysis for connectomics.
 * **AI for Healthcare:** computational pathology, respiratory disease screening and quality assurance, embryo viability prediction in IVF, and MRI/CT/X-ray image analysis.
