@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Yicong_Little_Havana.png
+  image: Yicong_Little_Havana.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Little Havana, 2025</p>
