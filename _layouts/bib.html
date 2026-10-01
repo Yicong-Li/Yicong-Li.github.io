@@ -213,7 +213,7 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
-          {% if site.enable_publication_badges %}
+          {% if site.enable_publication_badges.altmetric or site.enable_publication_badges.dimensions %}
           {%- comment -%} Liquid's assign can't evaluate "or", so set the flags with if blocks {%- endcomment -%}
           {% assign entry_has_altmetric_badge = false %}
           {% if entry.altmetric or entry.doi or entry.eprint or entry.pmid or entry.isbn %}
