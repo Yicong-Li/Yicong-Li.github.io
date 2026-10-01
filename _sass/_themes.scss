@@ -30,15 +30,6 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  .fa-sun {
-    display : none;
-  }
-  .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
-
   .repo-img-light {
     display: block;
   }
@@ -74,15 +65,6 @@ html[data-theme='dark'] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
-
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
-  .fa-moon {
-    display : none;
-  }
 
   .repo-img-light {
     display: none;
