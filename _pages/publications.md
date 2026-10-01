@@ -8,7 +8,7 @@ nav_order: 1
 ---
 Please see my [Google Scholar](https://scholar.google.com/citations?user=4b1skcQAAAAJ&hl) for a full list.
 
-\*: Equal Contribution
+<sup>†</sup>: Equal Contribution &nbsp;&nbsp; <sup>★</sup>: Corresponding Author
 
 <!-- _pages/publications.md -->
 <div class="publications">
