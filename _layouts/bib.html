@@ -46,7 +46,7 @@
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "⋆" | remove: "★" | remove: "^" -%}
-          {%- comment -%} Marks after the last name (dagger: equal contribution, star: corresponding) become superscripts {%- endcomment -%}
+          {%- comment -%} Marks after the last name (dagger: equal contribution, asterisk: corresponding) become superscripts {%- endcomment -%}
           {%- assign author_marks = author.last | remove: author_last_name -%}
           {%- capture author_sup -%}{%- if author_marks != "" -%}<sup>{{ author_marks | split: "" | join: "," }}</sup>{%- endif -%}{%- endcapture -%}
           {%- if site.scholar.last_name contains author_last_name -%}
